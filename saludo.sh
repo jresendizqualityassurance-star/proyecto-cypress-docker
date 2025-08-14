@@ -1,2 +1,2 @@
 echo "Hello world"
-echo "Probando tiggers desde Github y jenkins"
+echo "Reparando tiggers desde Github y jenkins"
